@@ -1,0 +1,8 @@
+---
+title: "Acceptance Testing Pickled Beets"
+type: "challenge"
+description: "Writing simple acceptance tests for a Pickled Beets Recipe site"
+visibility: "assign"
+tags: "acceptance-testing, capybara, testing"
+ignore:
+- "acceptance-testing-pickled-beets.md"
